@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+.env.*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Matpltlib
+*.png
+*.jpg
+*.jpeg
+
+# Next.js
+frontend/node_modules
+frontend/.next/
+frontend/out/
+
+# Vercel
+.vercel/
+
+#ide
+.vscode/
+.idea/
+
+#OS
+.DS_Store
+Thumbs.db
